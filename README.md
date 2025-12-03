@@ -4,7 +4,7 @@
 <b>IT 2110 </b> <br/>
 Aguado, Claire M. <br/>
 Anuran, Prince Jonnell M. <br/>
-Hibaler, khyl Jaspher <br/>
+Hibaler, Jaspher Khyl S. <br/>
 Mendoza, Kayzel Marie B.
 </p>
 
@@ -152,7 +152,7 @@ Enter your choice (1-6): 2
 | ID    | Reservation Name          | Date       | Time  | Location        | Category        |
 --------------------------------------------------------------------------------
 | 1     | Alice's 30th Party        | 2024-11-20 | 19:00 | The Loft Venue  | Birthday        |
-| 3     | John Doe Service          | 2024-12-24 | 10:30 | Pine Hill Chapel | Burial          |
+| 3     | John Doe Service          | 2024-12-24 | 10:30 | Pine Hill Chapel | Burial         |
 | 2     | 25th Wedding Milestone    | 2025-05-15 | 18:00 | Grand Ballroom  | Anniversary     |
 ================================================================================
 
@@ -174,7 +174,7 @@ Enter your choice (1-6): 3
 | ID    | Reservation Name          | Date       | Time  | Location        | Category        |
 --------------------------------------------------------------------------------
 | 1     | Alice's 30th Party        | 2024-11-20 | 19:00 | The Loft Venue  | Birthday        |
-| 3     | John Doe Service          | 2024-12-24 | 10:30 | Pine Hill Chapel | Burial          |
+| 3     | John Doe Service          | 2024-12-24 | 10:30 | Pine Hill Chapel | Burial         |
 | 2     | 25th Wedding Milestone    | 2025-05-15 | 18:00 | Grand Ballroom  | Anniversary     |
 ================================================================================
 
